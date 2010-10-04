@@ -1,0 +1,5 @@
+Changelog for getSiteNavigation (for MODx Revolution)
+
+getSiteNavigation 0.1-alpha1 (2010-10-03)
+=========================================
+ - Initial Release

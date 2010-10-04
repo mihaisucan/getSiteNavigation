@@ -1,0 +1,15 @@
+
+This is a MODx 2.0 Revolution snippet that provides the things you need to 
+generate the navigational elements of a web site.
+
+Author:
+  Mihai Șucan <mihai.sucan@gmail.com> (original author)
+  http://www.robodesign.ro/mihai
+
+Contributors:
+  Dennis Schubert <software@dsx.cc> (Co-Developer)
+  http://www.dennis-schubert.de
+  
+
+Code licence: GPL v3
+

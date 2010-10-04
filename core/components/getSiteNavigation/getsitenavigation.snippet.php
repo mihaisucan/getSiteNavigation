@@ -22,8 +22,8 @@
  * getSiteNavigation - generate web site navigation menus.
  *
  * @author Mihai Șucan (mihai.sucan.ro)
- *
- * @contributors
+ * @contributors Dennis Schubert (dennis-schubert.de)
+ * @version 0.1-alpha1
  */
 
 /**
